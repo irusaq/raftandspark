@@ -1,0 +1,42 @@
+[
+  {
+    "courseID": 220,
+    "name": "Human-Computer Interaction"
+  },
+  {
+    "courseID": 242,
+    "name": "Computer Networks"
+  },
+  {
+    "courseID": 230,
+    "name": "Data Structures"
+  },
+  {
+    "courseID": 235,
+    "name": "Theory of Computation"
+  },
+  {
+    "courseID": 236,
+    "name": "Spatial-Temporal Mechanism Design"
+  },
+  {
+    "courseID": 317,
+    "name": "Mobile App Development"
+  },
+  {
+    "courseID": 343,
+    "name": "Distributed Computing"
+  },
+  {
+    "courseID": 344,
+    "name": "Deep Learning"
+  },
+  {
+    "courseID": 111,
+    "name": "Computer Programming and Problem Solving"
+  },
+  {
+    "courseID": 231,
+    "name": "Design and Analysis of Algorithms"
+  }
+]

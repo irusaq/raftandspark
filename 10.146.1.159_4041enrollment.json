@@ -1,0 +1,52 @@
+[
+  {
+    "enrollmentID": 8,
+    "studentID": 8,
+    "courseID": 230
+  },
+  {
+    "enrollmentID": 9,
+    "studentID": 9,
+    "courseID": 230
+  },
+  {
+    "enrollmentID": 2,
+    "studentID": 2,
+    "courseID": 343
+  },
+  {
+    "enrollmentID": 4,
+    "studentID": 4,
+    "courseID": 344
+  },
+  {
+    "enrollmentID": 5,
+    "studentID": 5,
+    "courseID": 344
+  },
+  {
+    "enrollmentID": 7,
+    "studentID": 7,
+    "courseID": 230
+  },
+  {
+    "enrollmentID": 1,
+    "studentID": 1,
+    "courseID": 343
+  },
+  {
+    "enrollmentID": 3,
+    "studentID": 2,
+    "courseID": 344
+  },
+  {
+    "enrollmentID": 6,
+    "studentID": 6,
+    "courseID": 230
+  },
+  {
+    "enrollmentID": 10,
+    "studentID": 10,
+    "courseID": 236
+  }
+]

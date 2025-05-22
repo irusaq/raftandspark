@@ -1,0 +1,42 @@
+[
+  {
+    "studentID": 1,
+    "name": "Joe Ye"
+  },
+  {
+    "studentID": 2,
+    "name": "Cynthia Erivo"
+  },
+  {
+    "studentID": 4,
+    "name": "Tony Stark"
+  },
+  {
+    "studentID": 5,
+    "name": "Peter Parker"
+  },
+  {
+    "studentID": 8,
+    "name": "Mario Cart"
+  },
+  {
+    "studentID": 3,
+    "name": "Charlie Brown"
+  },
+  {
+    "studentID": 6,
+    "name": "Mickey Mouse"
+  },
+  {
+    "studentID": 7,
+    "name": "Evangeline Lilly"
+  },
+  {
+    "studentID": 9,
+    "name": "Indira Steve"
+  },
+  {
+    "studentID": 10,
+    "name": "Sandy Cheeks"
+  }
+]
