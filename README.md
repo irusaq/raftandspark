@@ -1,4 +1,4 @@
-# raftandspark
+# Distributed, fault-tolerant course registration system - Raft consensus algorithm and Apache Spark
 Developed a distributed, fault-tolerant course registration system using the Raft consensus algorithm and Apache Spark. Designed to manage student, course, and enrollment data across multiple servers, ensuring consistency, high availability, and scalability in a simulated university environment.
 
 # Steps to Run the Code on multiple devices
